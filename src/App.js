@@ -12,8 +12,8 @@ const App = () => {
           <h1 className="text-2xl font-bold mb-4">React File Explorer</h1>
           <FileExplorer />
         </div>
-      </DndProvider>{" "}.0
-      
+      </DndProvider>{" "}
+
     </div>
   );
 };
