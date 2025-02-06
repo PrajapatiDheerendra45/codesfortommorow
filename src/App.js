@@ -8,7 +8,7 @@ const App = () => {
   return (
     <div>
       <DndProvider backend={HTML5Backend}>
-        <div className="p-10 bg-pink-300 ">
+        <div className="p-10  ">
           <h1 className="text-2xl font-bold mb-4 ml-10 text-green-800">React File Explorer Task </h1>
           <FileExplorer />
         </div>
